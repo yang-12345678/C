@@ -144,6 +144,7 @@
     <ClCompile Include="03 访问权限控制.cpp" />
     <ClCompile Include="04 struct 和 class 的区别.cpp" />
     <ClCompile Include="05 私有成员属性.cpp" />
+    <ClCompile Include="06 封装案例 立方体类.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
