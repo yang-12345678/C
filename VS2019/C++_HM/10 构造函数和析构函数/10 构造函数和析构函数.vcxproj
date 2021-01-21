@@ -143,6 +143,11 @@
     <ClCompile Include="01 构造函数和析构函数.cpp" />
     <ClCompile Include="02 构造函数的分类及调用.cpp" />
     <ClCompile Include="03 拷贝构造参数调用时机.cpp" />
+    <ClCompile Include="04 深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="05 初始化列表.cpp" />
+    <ClCompile Include="06 类对象作为类成员.cpp" />
+    <ClCompile Include="07 静态成员变量.cpp" />
+    <ClCompile Include="08 静态成员函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
