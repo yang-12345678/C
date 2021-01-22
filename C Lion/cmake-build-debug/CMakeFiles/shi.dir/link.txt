@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\shi.dir/objects.a
-D:\PROGRA~1\MGW64\mingw64\bin\ar.exe cr CMakeFiles\shi.dir/objects.a @CMakeFiles\shi.dir\objects1.rsp
-D:\PROGRA~1\MGW64\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\shi.dir/objects.a -Wl,--no-whole-archive  -o shi.exe -Wl,--out-implib,libshi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shi.dir\linklibs.rsp

@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\shuju.dir/objects.a
-D:\PROGRA~1\MGW64\mingw64\bin\ar.exe cr CMakeFiles\shuju.dir/objects.a @CMakeFiles\shuju.dir\objects1.rsp
-D:\PROGRA~1\MGW64\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\shuju.dir/objects.a -Wl,--no-whole-archive  -o shuju.exe -Wl,--out-implib,libshuju.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shuju.dir\linklibs.rsp

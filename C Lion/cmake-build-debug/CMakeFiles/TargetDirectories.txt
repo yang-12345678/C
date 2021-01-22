@@ -1,7 +1,0 @@
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/C_Lion.dir
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/shi.dir
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/c_design.dir
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/shuju.dir
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/c_design11.dir
-E:/C++/C Lion/cmake-build-debug/CMakeFiles/edit_cache.dir
