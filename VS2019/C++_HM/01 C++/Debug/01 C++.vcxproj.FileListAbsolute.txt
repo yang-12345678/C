@@ -1,2 +1,0 @@
-E:\C++\VS2019\C++_HM\01 C++\Debug\01 C++.exe
-E:\C++\VS2019\C++_HM\01 C++\Debug\01 C++.pdb

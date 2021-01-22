@@ -1,2 +1,0 @@
-E:\C++\VS2019\C++_HM\05 指针\x64\Debug\05 指针.exe
-E:\C++\VS2019\C++_HM\05 指针\x64\Debug\05 指针.pdb
