@@ -1,0 +1,29 @@
+﻿  example.cpp
+E:\C++\VS2019\数据结构\example.cpp(49,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\C++\VS2019\数据结构\example.cpp(51,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\C++\VS2019\数据结构\example.cpp(52,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\C++\VS2019\数据结构\example.cpp(53,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\C++\VS2019\数据结构\example.cpp(54,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\C++\VS2019\数据结构\example.cpp(55,9): warning C4477: “printf”: 格式字符串“%8s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+E:\C++\VS2019\数据结构\example.cpp(46,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(48,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(49,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(50,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(51,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(52,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(53,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(54,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++\VS2019\数据结构\example.cpp(44,12): warning C4101: “da2”: 未引用的局部变量
+E:\C++\VS2019\数据结构\example.cpp(43,7): warning C4101: “fdhm”: 未引用的局部变量
+E:\C++\VS2019\数据结构\example.cpp(42,9): warning C4101: “i”: 未引用的局部变量
+E:\C++\VS2019\数据结构\example.cpp(45,17): warning C4101: “tra2”: 未引用的局部变量
+E:\C++\VS2019\数据结构\example.cpp(70,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  实验5.cpp
+E:\C++\VS2019\数据结构\实验5.cpp(21,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\C++\VS2019\数据结构\实验5.cpp(21,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\C++\VS2019\数据结构\实验5.cpp(21,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+E:\C++\VS2019\数据结构\实验5.cpp(21,10): message : 此参数用作缓冲区大小
+E:\C++\VS2019\数据结构\实验5.cpp(23,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\C++\VS2019\数据结构\实验5.cpp(168,1): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\C++\VS2019\数据结构\实验5.cpp(183,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
