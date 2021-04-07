@@ -15,7 +15,7 @@ int main()
 	// 加上const 之后，编译器将代码修改为：int temp = 10; const int &ref = temp;
 	const int& ref = 10;  // 引用必须引一块合法的内存空间
 	//ref = 20; // 加入const 之后，变为只读，不可修改
-
+	cout << "ref=" << ref << endl;
 	show(a);
 	cout << "a = " << a << endl;
 	system("pause");
