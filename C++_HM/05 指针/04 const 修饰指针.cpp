@@ -23,7 +23,7 @@
 //
 //	// const 修饰指针和常量
 //	// 特点：指针的指向不可以改，指针指向的值也不可以改
-//	const int* p3 = &a;
+//	const int* const p3 = &a;
 //	system("pause");
 //
 //	return 0;
