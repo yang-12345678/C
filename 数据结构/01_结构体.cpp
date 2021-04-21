@@ -1,12 +1,12 @@
-#include <stdio.h>
-#include <string.h>
-
-struct Student {
-	// 各个数据的字节数之和是结构体的字节数
-	int sid;
-	char name[20];
-	int age;
-};  // 分号不能省略
+//#include <stdio.h>
+//#include <string.h>
+//
+//struct Student {
+//	// 各个数据的字节数之和是结构体的字节数
+//	int sid;
+//	char name[20];
+//	int age;
+//};  // 分号不能省略
 
 
 //int main() 

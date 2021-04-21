@@ -143,7 +143,6 @@
     <ClCompile Include="02_内存动态分配.cpp" />
     <ClCompile Include="03_线性表.cpp" />
     <ClCompile Include="00_note.cpp" />
-    <ClCompile Include="example.cpp" />
     <ClCompile Include="实验1.cpp" />
     <ClCompile Include="实验5.cpp" />
   </ItemGroup>
