@@ -1,5 +1,6 @@
-//#include<iostream>
+//#include <iostream>
 //using namespace std;
+//
 //void InsertSort(int a[], int n)
 //{
 //	for (int i = 1; i < n; i++)
@@ -20,7 +21,6 @@
 //			cout << a[k] << " ";
 //		cout << endl;
 //	}
-//	
 //}
 //int main()
 //{

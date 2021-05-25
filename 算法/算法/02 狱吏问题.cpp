@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-// O(nlogn)
+// //O(nlogn)
 //int main()
 //{
 //	int* a, i, j, n;
@@ -26,21 +26,21 @@ using namespace std;
 //}
 
 
-//
-//int main()
-//{
-//	int s, i, j, n;
-//	cout << "请输入n的值：";
-//	cin >> n;
-//
-//	for (i = 1; i <= n; i++)
-//	{
-//		s = 1;
-//		for (j = 2; j <= i; j++)
-//			if (i % j == 0)
-//				s++;
-//		if (s % 2 == 1)
-//			cout << i << " is free." << endl;
-//	}
-//	return 0;
-//}
+
+int main()
+{
+	int s, i, j, n;
+	cout << "请输入n的值：";
+	cin >> n;
+
+	for (i = 1; i <= n; i++)
+	{
+		s = 1;
+		for (j = 2; j <= i; j++)
+			if (i % j == 0)
+				s++;
+		if (s % 2 == 1)
+			cout << i << " is free." << endl;
+	}
+	return 0;
+}
