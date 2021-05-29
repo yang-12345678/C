@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\第一章">
+      <UniqueIdentifier>{8c4767ac-c2bf-4cd1-956f-51cdbdc2e484}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\复习">
+      <UniqueIdentifier>{0cb31815-dc55-482f-94fb-3726ae9ecf8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实验">
+      <UniqueIdentifier>{8ca7cc94-4ac6-43d8-ab3e-7df2ea205cf1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01 统计数字问题.cpp">
+      <Filter>源文件\第一章</Filter>
+    </ClCompile>
+    <ClCompile Include="02 字典序问题.cpp">
+      <Filter>源文件\第一章</Filter>
+    </ClCompile>
+    <ClCompile Include="01 开灯问题cpp.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="02 狱吏问题.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="兔子繁殖问题.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="兔子繁殖问题2.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="猴子吃桃问题.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="实验1_及格学号问题.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验1_插入排序.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角2cpp.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2_全排列问题.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2_全排列问题2.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3_快速排序.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3_归并排序.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4_残缺棋盘.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5_数塔问题.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5_采摘花生.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7_背包问题.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7_田忌赛马.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验8_ 01背包问题.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验8_装载问题.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6_最大字段和cpp.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6_矩阵连乘.cpp">
+      <Filter>源文件\实验</Filter>
+    </ClCompile>
+    <ClCompile Include="数字图形.cpp">
+      <Filter>源文件\复习</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
