@@ -143,6 +143,7 @@
     <ClCompile Include="01 统计数字问题.cpp" />
     <ClCompile Include="02 字典序问题.cpp" />
     <ClCompile Include="02 狱吏问题.cpp" />
+    <ClCompile Include="keshe.cpp" />
     <ClCompile Include="兔子繁殖问题.cpp" />
     <ClCompile Include="兔子繁殖问题2.cpp" />
     <ClCompile Include="实验1_及格学号问题.cpp" />

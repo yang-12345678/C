@@ -99,5 +99,8 @@
     <ClCompile Include="数字图形.cpp">
       <Filter>源文件\复习</Filter>
     </ClCompile>
+    <ClCompile Include="keshe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

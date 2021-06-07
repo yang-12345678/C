@@ -1,6 +1,8 @@
-﻿  04 常量.cpp
+﻿  01 Hello.cpp
+  02 注释.cpp
+  03 变量.cpp
+  04 常量.cpp
   05 关键字.cpp
   06 标识符.cpp
   正在生成代码...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-E:\C++\VS2019\C++_HM\01 C++\Debug\01 C++.exe : fatal error LNK1120: 1 个无法解析的外部命令
+  01 C++.vcxproj -> E:\Repositories\C++\C++_HM\01 C++\Debug\01 C++.exe
