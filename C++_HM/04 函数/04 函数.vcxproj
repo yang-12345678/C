@@ -142,7 +142,6 @@
     <ClCompile Include="01 函数的定义.cpp" />
     <ClCompile Include="02 函数的调用.cpp" />
     <ClCompile Include="03 函数的分文件编写.cpp" />
-    <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h" />
